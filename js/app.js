@@ -25,7 +25,7 @@ window.situatorApp = function() {
         
         // Google settings
         googleKey: localStorage.getItem('google_api_key') || '',
-        googleModel: localStorage.getItem('google_model') || 'gemini-2.5-flash-preview-05-20',
+        googleModel: localStorage.getItem('google_model') || 'gemini-2.5-flash',
         
         // xAI settings
         xaiKey: localStorage.getItem('xai_api_key') || '',
