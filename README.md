@@ -2,6 +2,8 @@
 
 An interactive scenario simulator that uses AI to create and manage dynamic role-playing situations. Built as a static website using JavaScript ES6 modules and Alpine.js.
 
+You can play with it at https://dandadadandan.github.io/Situator/ or clone the project and run a web server to host it.
+
 ### Usage
 
 Type messages or actions in the chat input:
